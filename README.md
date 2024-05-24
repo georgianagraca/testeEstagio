@@ -1,10 +1,10 @@
-Avaliação para Estágio em Desenvolvedor Back-End
+# Avaliação para Estágio em Desenvolvedor Back-End
 
-DESCRIÇÃO DO CASO: Conta Bancária 
+## DESCRIÇÃO DO CASO: Conta Bancária 
 
 Uma cooperativa de crédito foi criada e você foi designado para criar um sistema de gerenciamento de contas. Então o sistema deverá fazer o cadastro dos correntistas possuindo os dados de cpf, nome, endereço e profissão. Sendo assim, cada correntista pode ter diversas contas e para conta é mantido o cliente ao qual a conta pertence, a conta possui um número, o número da agência e o saldo.
 
-Regras que o sistema deverá atender:
+## Regras que o sistema deverá atender:
 
 1 – O sistema deve possuir dois tipos de conta, Conta Corrente e Conta Poupança.
 
