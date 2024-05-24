@@ -18,5 +18,5 @@ Uma cooperativa de crédito foi criada e você foi designado para criar um siste
 
 6 – Conta Poupança deverá existir uma operação que calcula o juros mensal de rendimento e aplique no saldo da conta, a taxa de juros será enviado por parâmetro.
 
-7 – Conta Corrente deverá existir uma operação que calcula o juros caso saldo seja negaƟvo e aplique no saldo da conta, a taxa de juros será enviado por parâmetro.
+7 – Conta Corrente deverá existir uma operação que calcula o juros caso saldo seja negativo e aplique no saldo da conta, a taxa de juros será enviado por parâmetro.
 
